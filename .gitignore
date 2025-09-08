@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+path/
+
+# Environment / API keys
+.env
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Any database or temporary files
+*.sqlite
+*.log
+
