@@ -212,7 +212,7 @@ def main():
         pgconn = psycopg2.connect(
             host = 'localhost', 
             database = 'postgres',
-            user = '', #postgreSQL user
+            user = 'sudaishaleem',
             password = ''
         )
 
